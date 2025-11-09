@@ -5,6 +5,12 @@ Upload a photo of a Sudoku puzzle or input it manually, and the system will auto
 
 ---
 
+## Screenshot
+
+![Sudoku Solver Screenshot](Screenshot 2025-11-09 211538.png)
+
+---
+
 ## Features
 
 - **Manual Sudoku Entry**
